@@ -1,3 +1,6 @@
 {
-  "origins": ["https://utterances.njilc.org"]
+  "origins": [
+    "https://blog.njilc.com",
+    "https://utterances.njilc.org"
+  ]
 }
